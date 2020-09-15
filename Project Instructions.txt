@@ -1,0 +1,12 @@
+
+CV Builder
+
+
+
+
+We used eclipse, so we prefer running the code on eclipse.
+Create a package named project and add the code in the package with correct class names.
+
+To add the image save the image in drive D by the name "CV", and set image = new ImageIcon("D:\\CV.jpeg");
+
+Hopefully no error comes up.
