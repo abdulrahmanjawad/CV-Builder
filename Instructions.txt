@@ -1,9 +1,6 @@
 
 CV Builder
 
-
-
-
 We used eclipse, so we prefer running the code on eclipse.
 Create a package named project and add the code in the package with correct class names.
 
